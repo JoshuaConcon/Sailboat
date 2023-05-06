@@ -29,3 +29,6 @@ Sailböat would have used award monies to pay software developers to build the a
 - **Harmony Crawford**, *CEO*, Mathematics and Economics @ Queen's University
 - **Joshua Concon**, *CTO*, Computer Science @ University of Toronto
 - **Braedan Robinson**, *Web Developer*, Computer Science @ Queen's University
+
+## References
+- https://www.facebook.com/photo/?fbid=993104217507489
