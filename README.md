@@ -17,8 +17,8 @@ Sailböat will also users to preview restaurants through short (20 sec) atmosphe
 
 ## Achievements
 
-- **On June 2017**, Sailböat was accepted as a cohort to Basecamp, an student validation and incubation program at the DMZ.
-- **On November 2017**, Sailböat won $1,500 in funds at the UTSC Startup Competition as well as residency at UTSC's incubator, The HUB.
+- **On June 2017**, Sailböat was accepted as a cohort to [Basecamp](https://dmz.torontomu.ca/basecamp/), an student validation and incubation program at [the DMZ](https://en.wikipedia.org/wiki/The_DMZ_(Toronto_Metropolitan_University)).
+- **On November 2017**, Sailböat won $1,500 in funds at the [UTSC Startup Competition](https://www.facebook.com/photo/?fbid=993104217507489) as well as residency at [UTSC's incubator, The HUB](https://www.utsc.utoronto.ca/thehub/).
 
 ## Long-Term Development Plans
 
@@ -29,6 +29,3 @@ Sailböat would have used award monies to pay software developers to build the a
 - **Harmony Crawford**, *CEO*, Mathematics and Economics @ Queen's University
 - **Joshua Concon**, *CTO*, Computer Science @ University of Toronto
 - **Braedan Robinson**, *Web Developer*, Computer Science @ Queen's University
-
-## References
-- https://www.facebook.com/photo/?fbid=993104217507489
